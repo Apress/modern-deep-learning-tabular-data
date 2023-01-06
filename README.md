@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Modern Deep Learning for Tabular Data*](https://link.springer.com/book/10.1007/978-1-4842-8692-0) by Andre Ye and Ziang Wang (Apress, 2023).
+This repository accompanies [*Modern Deep Learning for Tabular Data*](https://link.springer.com/book/10.1007/978-1-4842-8692-0) by Andre Ye and Zian Wang (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](978-1-4842-8691-3.jpg)
